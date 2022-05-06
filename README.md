@@ -13,7 +13,7 @@ Our Garment Tweaking module, is named InterClothGAN, and has been assigned a new
 ## Before you start,
 
 There are datasets you need to download, one for *inversion network* and the other for *dressing in order*.
-You can go download CP-Vton dataset [here](https://drive.google.com/drive/folders/1NxESTHGMPpUMCFsvX27N5gDwkYj7ZhoT?usp=sharing) and put the cp-vton folder under the *gan-inversion* directory. You need to split those data into two sets, *train* and *test* and place each folder under the created *cp-vton* directory
+You can go download CP-Vton dataset [here](https://drive.google.com/drive/folders/1NxESTHGMPpUMCFsvX27N5gDwkYj7ZhoT?usp=sharing) and put the cp-vton folder under the *gan-inversion* directory. You need to split those data into two sets, *train* and *test* and place each folder under the created *cp-vton* directory.
 
 Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html) and place it under the data directory of *dressing-in-order*. There is an empty folder with differnet names that indicate where to place dataset at.
 
