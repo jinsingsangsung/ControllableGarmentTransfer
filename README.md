@@ -18,5 +18,7 @@ Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/Deep
 
 
 ## Result
-our demonstration result can be found [here](https://drive.google.com/drive/folders/13GPKKRMcBbOfDOaVDrYAs9s2GQIvr71Q?usp=sharing)
+
+Our demonstration result can be found [here](https://drive.google.com/drive/folders/13GPKKRMcBbOfDOaVDrYAs9s2GQIvr71Q?usp=sharing)
+
 Garment Tweaking [demo](https://colab.research.google.com/drive/1-QHc6oF_Xthj1Po558gd7dQLZyD9oDuh?usp=sharing)
