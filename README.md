@@ -20,7 +20,7 @@ You can go download CP-Vton dataset [here](https://drive.google.com/drive/folder
 Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html) and place it under the data directory of *dressing-in-order*. There is an empty folder with differnet names that indicate where to place dataset at.
 
 ### Environment setup (optional)
-
+Under gan-inversion directory, you will see environment.yaml file. Use conda to install environments used for the experiment.
 
 ## Run the code
 
