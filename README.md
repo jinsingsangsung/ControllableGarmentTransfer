@@ -1,7 +1,7 @@
 # ControllableGarmentTransfer
-DL_project
 
 This is a repository of **Controllable Garment Transfer**, a project from Intro to Deep Learning (11685), CMU.
+Our project preliminary report can be found [here](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fjj4ivcv0tvk379%2F6e53b51ac6423b5821abafe166fabb1cdc1ae3cd590933d28b9af99797325d0a%2FNIPS_Template___11785__Copy__%284%29.pdf), so we recommend you to read the report first before implementing our code.
 
 
 ![collar2_debug](https://user-images.githubusercontent.com/76904126/167062152-32327fca-ef8d-4f09-9773-c63e6b497540.gif)
