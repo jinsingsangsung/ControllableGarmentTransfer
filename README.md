@@ -8,6 +8,7 @@ Our project preliminary report can be found [here](https://piazza.com/redirect/s
 ![flower1_debug](https://user-images.githubusercontent.com/76904126/167062160-4977f252-0708-4c3e-a231-f1b7cd462390.gif)
 
 Our Garment Tweaking module, is named InterClothGAN, and has been assigned a new [repository](https://github.com/tcabezon/InterClothGAN).
+
 <img width="568" alt="Inversion_network" src="https://user-images.githubusercontent.com/76904126/167064469-7ab8a698-c123-4a15-b450-5d76d8bbb5e3.png">
 
 
