@@ -23,7 +23,18 @@ Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/Deep
 Under gan-inversion directory, you will see environment.yaml file. Use conda to install environments used for the experiment.
 
 ## Run the code
+**1. Garment Transfer**
 
+For garment transfer, follow the instructions from [DiOR](https://github.com/cuiaiyu/dressing-in-order.git) to set up the environment and the download the pretrained weights.
+
+**2. Gan Inversion (Optional)**
+
+If you want to try editing with custom images (rather than StyleGAN generated images), you must first project them into StyleGAN space to find the closest embedding that’ll yield a similar garment image. We have trained an inversion network for Stylegan for garments, whose weights can be downloaded [here](somelink). 
+Unzip `weights.zip`. `stylegan1/` has the weights for the stylegan 1 network trained on garment images, which should be placed in the `pretrained_models` folder inside the inversion repo. The pretrained weights for the inversion network can be found in `inversion/`. Run `scripts/inference.py` to get the reconstructed StyleGAN image and its latent vector.
+
+**3. Garment Tweaking**
+
+For tweaking, we provide you with a [colab notebook](https://drive.google.com/drive/folders/13GPKKRMcBbOfDOaVDrYAs9s2GQIvr71Q?usp=sharing). Head over to [InterClothGAN](https://github.com/tcabezon/InterClothGAN/tree/ec271c773e03d9da465523a503402d28c7001752) for the full repo.
 
 ## Result
 
