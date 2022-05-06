@@ -1,0 +1,6 @@
+[submodule "dressing-in-order"]
+	path = dressing-in-order
+	url = https://github.com/RisingStockPrices/dressing-in-order.git
+[submodule "gan-inversion"]
+	path = gan-inversion
+	url = https://github.com/RisingStockPrices/gan-inversion.git
