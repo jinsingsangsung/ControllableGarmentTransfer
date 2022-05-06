@@ -21,7 +21,7 @@ Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/Deep
 
 ### Environment setup (optional) and Pretrained Weights
 **Gan Inversion**
-Under `gan-inversion/` directory, you will see `environment.yaml` file. Use conda to install environments used for the experiment.We have trained an inversion network for Stylegan for garments, whose weights can be downloaded [here](https://drive.google.com/drive/folders/13GPKKRMcBbOfDOaVDrYAs9s2GQIvr71Q?usp=sharing). 
+Under `gan-inversion/` directory, you will see `environment.yaml` file. Use conda to install environments used for the experiment. We have trained an inversion network for Stylegan for garments, whose weights can be downloaded [here](https://drive.google.com/drive/folders/13GPKKRMcBbOfDOaVDrYAs9s2GQIvr71Q?usp=sharing). 
 Unzip `weights.zip`. `stylegan1/` has the weights for the stylegan 1 network trained on garment images, which should be placed in the `pretrained_models` folder inside the inversion repo. The pretrained weights for the inversion network can be found in `inversion/`.
 
 ## Run the code
