@@ -7,6 +7,8 @@ This is a repository of **Controllable Garment Transfer**, a project from Intro 
 ![collar2_debug](https://user-images.githubusercontent.com/76904126/167062152-32327fca-ef8d-4f09-9773-c63e6b497540.gif)
 ![flower1_debug](https://user-images.githubusercontent.com/76904126/167062160-4977f252-0708-4c3e-a231-f1b7cd462390.gif)
 
+Our Garment Tweaking module, is named InterClothGAN, and has been assigned a new [repository](https://github.com/tcabezon/InterClothGAN).
+
 
 ## Before you start,
 
