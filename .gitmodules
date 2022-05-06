@@ -4,3 +4,6 @@
 [submodule "gan-inversion"]
 	path = gan-inversion
 	url = https://github.com/RisingStockPrices/gan-inversion.git
+[submodule "InterClothGAN"]
+	path = InterClothGAN
+	url = https://github.com/tcabezon/InterClothGAN.git
