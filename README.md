@@ -5,7 +5,6 @@ Our project preliminary report can be found [here](https://piazza.com/redirect/s
 
 
 ![collar2_debug](https://user-images.githubusercontent.com/76904126/167062152-32327fca-ef8d-4f09-9773-c63e6b497540.gif)
-![flower1_debug](https://user-images.githubusercontent.com/76904126/167062160-4977f252-0708-4c3e-a231-f1b7cd462390.gif)
 
 Our Garment Tweaking module, is named InterClothGAN, and has been assigned a new [repository](https://github.com/tcabezon/InterClothGAN).
 
@@ -15,12 +14,12 @@ Our Garment Tweaking module, is named InterClothGAN, and has been assigned a new
 ## Before you start,
 
 There are datasets you need to download, one for *inversion network* and the other for *dressing in order*.
-You can go download CP-Vton dataset [here](https://drive.google.com/drive/folders/1NxESTHGMPpUMCFsvX27N5gDwkYj7ZhoT?usp=sharing) and put the cp-vton folder under the *gan-inversion* directory. You need to split those data into two sets, *train* and *test* and place each folder under the created *cp-vton* directory.
+You can go download CP-Vton dataset [here](https://drive.google.com/drive/folders/1NxESTHGMPpUMCFsvX27N5gDwkYj7ZhoT?usp=sharing) and put the cp-vton folder under the `gan-inversion` directory. You need to split those data into two sets, `train` and `test` and place each folder under the created `cp-vton` directory.
 
-Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html) and place it under the data directory of *dressing-in-order*. There is an empty folder with differnet names that indicate where to place dataset at.
+Also, download the dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html) and place it under the data directory of `dressing-in-order`. There is an empty folder with differnet names that indicate where to place dataset at.
 
 ### Environment setup (optional)
-Under gan-inversion directory, you will see environment.yaml file. Use conda to install environments used for the experiment.
+Under `gan-inversion` directory, you will see `environment.yaml` file. Use conda to install environments used for the experiment.
 
 ## Run the code
 **1. Garment Transfer**
